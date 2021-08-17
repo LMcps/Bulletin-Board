@@ -1,4 +1,4 @@
-# 【重要通知】ytp少年圖靈計畫 第六屆線上初賽暨環境測試
+# 【重要通知】少年圖靈計畫 第六屆線上初賽暨環境測試
 ## 網址帳號操作說明
 
 [【重要通知】ytp少年圖靈計畫 第六屆線上初賽暨環境測試—網址帳號操作說明.pdf](https://github.com/lmshlmcps4th/Bulletin-Board/files/6997391/ytp.pdf)
