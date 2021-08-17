@@ -1,4 +1,6 @@
-# [【重要通知】ytp少年圖靈計畫 第六屆線上初賽暨環境測試—網址帳號操作說明.pdf](https://github.com/lmshlmcps4th/Bulletin-Board/files/6997391/ytp.pdf)
+# 【重要通知】ytp少年圖靈計畫 第六屆線上初賽暨環境測試—網址帳號操作說明
+
+[【重要通知】ytp少年圖靈計畫 第六屆線上初賽暨環境測試—網址帳號操作說明.pdf](https://github.com/lmshlmcps4th/Bulletin-Board/files/6997391/ytp.pdf)
 
 ![【重要通知】ytp少年圖靈計畫 第六屆線上初賽暨環境測試—網址帳號操作說明_page-0001](https://user-images.githubusercontent.com/65766065/129671152-f1000560-7ddb-48a5-8f04-164f5a53a377.jpg)
 ![【重要通知】ytp少年圖靈計畫 第六屆線上初賽暨環境測試—網址帳號操作說明_page-0002](https://user-images.githubusercontent.com/65766065/129671157-a437a0c4-bdf1-4548-8dbf-7a12787c6799.jpg)
