@@ -1,5 +1,6 @@
 # 社團公告
-[@mdwiwi0130](https://github.com/mdwiwi0130)
+>[@mdwiwi0130](https://github.com/mdwiwi0130)
+>
 >稍微整理了一些程式&資安的比賽和活動
 
 [網頁版傳送門](https://reurl.cc/gz013Q)
