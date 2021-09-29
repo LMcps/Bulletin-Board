@@ -6,7 +6,9 @@
 [網頁版傳送門](https://reurl.cc/gz013Q)
 
 [PDF傳送門](https://reurl.cc/kLEdVx)
-
+```
+公告時間: 2021.09.29 09:45
+```
 ---
 # Lmcps ptt範本
 線上編輯範本:https://reurl.cc/GbVyaD
