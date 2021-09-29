@@ -17,3 +17,6 @@
  PDF範本:[lmcps.pdf](https://github.com/lmshlmcps4th/Bulletin-Board/files/7149005/lmcps.pdf)
  
  PowerPoint範本:[lmcps.pptx](https://github.com/lmshlmcps4th/Bulletin-Board/files/7149006/lmcps.pptx)
+```
+公告時間: 2021.08.30
+```
