@@ -1,5 +1,8 @@
 # 程研社12/22練習賽
+> [@mdwiwi0130](https://github.com/mdwiwi0130)
+ 
 [練習賽資料](https://github.com/lmshlmcps4th/Bulletin-Board/releases/tag/LMSH12.22)
+
 [高一組解答](https://hackmd.io/@Lmcps/SyaZ5oesK)
 
 ---
