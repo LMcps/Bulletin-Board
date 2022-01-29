@@ -1,30 +1,11 @@
-# 程研社12/22練習賽
-> [@mdwiwi0130](https://github.com/mdwiwi0130)
- 
-[練習賽資料](https://github.com/lmshlmcps4th/Bulletin-Board/releases/tag/LMSH12.22)
+# 黎明高中程式設計研究社資源庫首頁
 
-[高一組解答](https://hackmd.io/@Lmcps/SyaZ5oesK)
+ > \ 歡迎蒞臨 黎明高中程式設計研究社資源庫！ / <br>
+ > 本區存放了本社至創立以來的資源,希望這些資料對你有幫助<br>
+ > 有任何疑問都歡迎私訊我們！
 
----
-# 社團公告
->[@mdwiwi0130](https://github.com/mdwiwi0130)
->
->稍微整理了一些程式&資安的比賽和活動
 
-[網頁版傳送門](https://reurl.cc/gz013Q)
-
-[PDF傳送門](https://reurl.cc/kLEdVx)
-```
-公告時間: 2021.09.29 21:45
-```
----
-# Lmcps ptt範本
-線上編輯範本:https://reurl.cc/GbVyaD
-> 建議須有[canva.com](https://www.canva.com/join/gbq-prr-ttx)帳號
-
- PDF範本:[lmcps.pdf](https://github.com/lmshlmcps4th/Bulletin-Board/files/7149005/lmcps.pdf)
- 
- PowerPoint範本:[lmcps.pptx](https://github.com/lmshlmcps4th/Bulletin-Board/files/7149006/lmcps.pptx)
-```
-公告時間: 2021.08.30
-```
+**若有需要聯絡我們時....,你可以...**
+* 到[**Instagram**](https://www.instagram.com/lmsh_lmcps/)私訊小編
+* 寄信至<font color=red>臺南市黎明高級中學</font>指名給<font color="#5B00AE">**程式設計研究社**</font>
+* ~~或是你也可以試試用心電感應連絡小編~~
