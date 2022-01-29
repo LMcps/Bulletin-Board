@@ -7,7 +7,7 @@
 <br>
 
 ## 目錄
-* [各類簡報、資料]()
+* [各類簡報、資料](https://lmshlmcps4th.github.io/Bulletin-Board/%E5%90%84%E9%A1%9E%E7%B0%A1%E5%A0%B1%E3%80%81%E8%B3%87%E6%96%99/%E5%90%84%E9%A1%9E%E7%B0%A1%E5%A0%B1%E3%80%81%E8%B3%87%E6%96%99)
 
 **若有需要聯絡我們時....,你可以...**
 >* 到[**Instagram**](https://www.instagram.com/lmsh_lmcps/)私訊小編
