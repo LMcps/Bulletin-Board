@@ -1,4 +1,4 @@
-# 黎明高中程式設計研究社Github[首頁](https://lmshlmcps4th.github.io/Bulletin-Board/)
+# 黎明高中程式設計研究社Github首頁
  > \ 歡迎蒞臨 黎明高中程式設計研究社Github！ / <br>
  > 本區存放了本社許多資源,希望這些資料對你有幫助<br>
  > 有任何疑問都歡迎私訊我們！
