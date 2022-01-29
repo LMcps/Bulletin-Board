@@ -7,5 +7,5 @@
 
 **若有需要聯絡我們時....,你可以...**
 * 到[**Instagram**](https://www.instagram.com/lmsh_lmcps/)私訊小編
-* 寄信至<font color=red>臺南市黎明高級中學</font>指名給<font color="#5B00AE">**程式設計研究社**</font>
+* 寄信至<font color=red>臺南市黎明高級中學</font>指名給<font color="#5B00AE"> *程式設計研究社* </font>
 * ~~或是你也可以試試用心電感應連絡小編~~
