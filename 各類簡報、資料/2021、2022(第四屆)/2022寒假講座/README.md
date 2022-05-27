@@ -33,7 +33,7 @@
 
 
 ## 活動海報
-![](https://github.com/lmshlmcps4th/Bulletin-Board/blob/main/%E5%90%84%E9%A1%9E%E7%B0%A1%E5%A0%B1%E3%80%81%E8%B3%87%E6%96%99/2022%E5%AF%92%E5%81%87%E8%AC%9B%E5%BA%A7/LMCPS%E5%86%AC%E5%AD%A3%E8%AC%9B%E5%BA%A72022.png?raw=true)
+![](https://github.com/LMcps/Bulletin-Board/blob/ab6f9619aef58ad4360a43442ff2acfe9c7c2c62/%E5%90%84%E9%A1%9E%E7%B0%A1%E5%A0%B1%E3%80%81%E8%B3%87%E6%96%99/2021%E3%80%812022(%E7%AC%AC%E5%9B%9B%E5%B1%86)/2022%E5%AF%92%E5%81%87%E8%AC%9B%E5%BA%A7/LMCPS%E5%86%AC%E5%AD%A3%E8%AC%9B%E5%BA%A72022.png)
 
 <br>
 
